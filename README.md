@@ -1,3 +1,4 @@
+
 # Civicera
 
 A modern civic transparency platform built with Next.js and Tailwind CSS, focused on making public meetings, agendas, and government information accessible to everyone.
@@ -79,3 +80,5 @@ This is a civic technology project aimed at improving transparency and public en
 ## License
 
 ISC
+# Goverium
+governance systems
