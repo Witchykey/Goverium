@@ -1,4 +1,5 @@
-# Civicera
+
+# goverium
 
 A modern civic transparency platform built with Next.js and Tailwind CSS, focused on making public meetings, agendas, and government information accessible to everyone.
 
@@ -45,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## Project Structure
 
 ```
-civicera/
+goverium/
 ├── app/
 │   ├── layout.tsx          # Root layout with metadata
 │   ├── page.tsx            # Landing page
