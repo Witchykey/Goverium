@@ -1,5 +1,5 @@
 
-# Civicera
+# goverium
 
 A modern civic transparency platform built with Next.js and Tailwind CSS, focused on making public meetings, agendas, and government information accessible to everyone.
 
