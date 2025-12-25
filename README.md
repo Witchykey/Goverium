@@ -3,6 +3,7 @@
 
 A modern civic transparency platform built with Next.js and Tailwind CSS, focused on making public meetings, agendas, and government information accessible to everyone.
 
+tiny changes
 ## Features
 
 - 🏛️ **Public Meetings Calendar** - Browse and track upcoming civic meetings
